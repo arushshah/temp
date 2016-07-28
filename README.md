@@ -1,2 +1,0 @@
-# bcamarketplace
-shopping center
